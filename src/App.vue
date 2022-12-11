@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 // All imports are automatic but if you want to import anything,
 // remember to import from 'vue-termui':
-import { ref } from 'vue-termui'
+// import { ref } from 'vue-termui'
 
 const n = ref(0)
 
